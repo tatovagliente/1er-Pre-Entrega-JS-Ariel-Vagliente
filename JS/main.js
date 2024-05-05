@@ -23,7 +23,7 @@ while (cantidad != 0){
         break;
     }
 
-nombreProducto = prompt("Ingrese el producto que desea comprar:\n1- Si quiere el Producto A ingrese = A \n2- Si quiere el Producto B ingrese = B \n3- Si quiere el Producto C ingrese = C");
+nombreProducto = prompt("Ingrese el producto que desea comprar:\n1- Si quiere el Producto A ingrese = A \n2- Si quiere el Producto B ingrese = B \n3- Si quiere el Producto C ingrese = C").toUpperCase();
 
 switch (nombreProducto){
     case "A":
