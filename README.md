@@ -1,0 +1,2 @@
+Es una pagina web de compras de productos de madera, en donde por prompt se pide nombre de Usuario, luego la cantidad del producto que el cliente quiere comprar y siguiente que tipo de producto quiere.
+Al hacer los pasos anterior, y en funcion a la cantidad, envia los costos de compra. En un primer orden muestra el costo del producto y luego su costo de envio. Para finalizar devuelve el monto total a abonar del cliente.
